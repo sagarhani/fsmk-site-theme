@@ -1,0 +1,12 @@
+.fsmk-carousel
+  .carousel-indicators
+    bottom: 0px
+  .carousel-inner> .item
+    & > img
+      width: 100%
+    +respond-to(mob)
+      .carousel-caption
+        position: static
+        background: $brand-primary
+        padding-top: 1px
+        height: 135px
