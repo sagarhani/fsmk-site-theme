@@ -122,7 +122,7 @@
               <a href='https://discuss.fsmk.org/' target="_blank" >Discuss</a>
             </li>
             <li>
-              <a href='/planet' target="_blank" >Planet</a>
+              <a href='http://fsmk.org/planet/' target="_blank" >Planet</a>
             </li>
 
             <!--<li>
